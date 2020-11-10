@@ -1,0 +1,252 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @/static/css/index.css: 其中@代表项目根目录 */
+.top {
+		background-color: #ffa900;
+		min-height: 90px;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		        align-items: center;
+		padding: 0px 20rpx;
+		font-size: 12px;
+}
+.top-menu{
+	   display: -webkit-box;
+	   display: -webkit-flex;
+	   display: flex;
+	   -webkit-box-align: center;
+	   -webkit-align-items: center;
+	           align-items: center;
+}
+.body{
+	   background-color: #F2F2F2;
+	   padding: 0px 20rpx;
+	   border-radius: 40rpx 40rpx 0 0;
+	   margin-top: -20px;
+	   min-height: 90px;
+}
+.search{
+	   padding:0px!important;
+	   margin: 10px 0px 0px 0px;
+}
+.search>view{
+		padding:0px!important;
+}
+.field-class{
+	   padding: 0px 10px!important;
+	   background-color: #e3e4e5;
+	   border-radius: 100px!important;
+}
+.menu-botton{
+	   font-size: 10px;
+	   padding: 2px 7px;
+	   border-radius: 30px;
+	   background-color: #e3e4e5;
+}
+.daohang{
+	   display: -webkit-box;
+	   display: -webkit-flex;
+	   display: flex;
+	   -webkit-box-orient: horizontal;
+	   -webkit-box-direction: normal;
+	   -webkit-flex-flow: wrap row;
+	           flex-flow: wrap row;
+	   -webkit-justify-content: space-around;
+	           justify-content: space-around;
+	   -webkit-align-content: space-around;
+	           align-content: space-around;
+	   padding: 5px 0px 5px 0px;
+}
+.daohang>view{
+	   display: -webkit-box;
+	   display: -webkit-flex;
+	   display: flex;
+	   -webkit-box-orient: vertical;
+	   -webkit-box-direction: normal;
+	   -webkit-flex-flow: nowrap column;
+	           flex-flow: nowrap column;
+	   -webkit-box-align: center;
+	   -webkit-align-items: center;
+	           align-items: center;
+	   font-size: 10px;
+}
+.daohang .tb{
+	   padding: 11px;
+	   background-color: #000000;
+	   border-radius: 50%;
+	   display: -webkit-box;
+	   display: -webkit-flex;
+	   display: flex;
+	   -webkit-box-pack: center;
+	   -webkit-justify-content: center;
+	           justify-content: center;
+	   -webkit-box-align: center;
+	   -webkit-align-items: center;
+	           align-items: center;
+}
+.daohang .tb>image{
+	   width: 21px;
+	   height: 21px;
+}
+
